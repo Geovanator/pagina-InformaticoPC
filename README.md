@@ -1,2 +1,2 @@
-# Pagina-InformaticoPC
+# Pagina-InformaticosPC
 Crear pagina InformaticosPC
